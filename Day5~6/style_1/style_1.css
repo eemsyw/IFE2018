@@ -1,0 +1,11 @@
+.resume {
+    width: 700px;
+    padding: 10px 20px;
+    margin: 0 auto;
+}
+.basic span{
+    margin-right: 2em;
+}
+.basic strong{
+    margin-right: 1em;
+}
